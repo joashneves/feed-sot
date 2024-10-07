@@ -1,3 +1,4 @@
 export default [
-    "joashneves.me"
+    "joashneves.me",
+    'timeandthegio.emos.social'
   ]
